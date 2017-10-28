@@ -1,3 +1,3 @@
 #!/bin/bash
 
-screen -d -m -S client iperf -c $server_private -t 480
+./client $server_private 
