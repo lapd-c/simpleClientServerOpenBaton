@@ -5,22 +5,23 @@
 
 @Client Side: 
 
-INSTANTIATE:::
-1.install.sh,
-2.compileFiles.sh
+INSTANTIATE::: <br>
+1.install.sh,<br>
+2.compileFiles.sh <br>
 
 CONFIGURE:::
-1.startClient.sh
+1.startClient.sh <br>
 
 
-@Server Side:
-INSTANTIATE:::
-1.install.sh,
-2.compileFiles.sh
-3.configure_server.sh
+@Server Side: <br>
+INSTANTIATE::: <br>
+1.install.sh, <br>
+2.compileFiles.sh  <br>
+3.configure_server.sh  <br>
 
-CONFIGURE:::
-1.startServer.sh
+CONFIGURE:::  <br>
+1.startServer.sh <br>
 
+<br>
 
 
