@@ -9,7 +9,7 @@ INSTANTIATE::: <br>
 1.install.sh,<br>
 2.compileFiles.sh <br>
 
-CONFIGURE:::
+CONFIGURE:::<br>
 1.startClient.sh <br>
 
 
