@@ -16,8 +16,9 @@ CONFIGURE:::<br>
 @Server Side: <br>
 INSTANTIATE::: <br>
 1.install.sh, <br>
-2.compileFiles.sh  <br>
-3.configure_server.sh  <br>
+2.configure_server.sh  <br>
+3.compileFiles.sh  <br>
+
 
 CONFIGURE:::  <br>
 1.startServer.sh <br>
