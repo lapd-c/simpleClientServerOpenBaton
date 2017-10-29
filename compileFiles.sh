@@ -1,4 +1,5 @@
 #!/bin/bash
-
-g++ client.cpp -o client
-g++ server.cpp -o server 
+echo "Compiling the client and server programs"
+sudo g++ client.cpp -o client
+sudo g++ server.cpp -o server
+echo "Done!"
