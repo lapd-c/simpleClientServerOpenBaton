@@ -21,5 +21,7 @@ INSTANTIATE::: <br>
 3.compileFiles.sh,  <br>
 4.startServer.sh <br>
 
+Deployment Diagram 
+![Alt text](simpleClientServerOpenBaton/Graph_Simple_client_server.png "Graph")
 
 
