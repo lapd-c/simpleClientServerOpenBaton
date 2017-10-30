@@ -22,6 +22,6 @@ INSTANTIATE::: <br>
 4.startServer.sh <br>
 
 Deployment Diagram 
-![Alt text](simpleClientServerOpenBaton/Graph_Simple_client_server.png "Graph")
+![alt text](simpleClientServerOpenBaton/Graph_Simple_client_server.png)
 
 
