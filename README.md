@@ -22,6 +22,6 @@ INSTANTIATE::: <br>
 4.startServer.sh <br>
 
 Deployment Diagram 
-![alt text](simpleClientServerOpenBaton/Graph_Simple_client_server.png)
+![alt text](https://github.com/tulja/simpleClientServerOpenBaton/blob/master/Graph_Simple_client_server.png)
 
 
