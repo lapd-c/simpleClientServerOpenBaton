@@ -5,5 +5,7 @@ echo "Client has started and is trying to connect to Server at port number 8089"
 #wait for 10 seconds for server to become active 
 echo "Server IP is " 
 echo $server_private
+echo "Server Hostname is "
+echo $server_hostname 
 echo $server_private > server_ip.txt
 ./client $server_private > client_output.txt
